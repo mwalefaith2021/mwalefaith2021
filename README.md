@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @mwalefaith2021
-- 👀 I’m interested in web develpment
-- 🌱 I’m currently learning html/css
+- 👀 I’m interested in web development
+- 🌱 Eco nut
+- HTML 5
 - 💞️ I’m looking to collaborate on designing sites
-- 📫 How to reach me patriciafaithmwale@gmail.com
+- 📫 How to reach me faithmwale2020@outlook.com
 
 <!---
 mwalefaith2021/mwalefaith2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
